@@ -1,2 +1,6 @@
 # ACME_GHANA_SALES
 Identifying sales effort targets in Ghanian agribusiness for ACME Corporation
+
+DTC-2 analysts present this report for ACME Corporation based on provided data from the 1998- 1999 Ghana Statistical Service’s fourth Living Standard Survey (GLSS4), to identify strong target areas for sales efforts in Ghana. We focused primarily on educational attainment and regional/area factors in making these determinations. After filtering data, our models are based on survey results for 837 households, comprised of 4087 individual members.
+
+The agricultural industry is one of the most difficult sectors, affected by numerous natural and human induced factors. The expansion into the industry therefore requires tremendous caution. To target profit, agricultural productivity should be complemented by other inputs into the channel of distribution of the products. These include identification of markets, skilled labor sources, supporting infrastructure, water sources, machinery, and numerous other aspects. Most importantly, the analysis of the geography is important as a fundamental building block of the project. This statistical analysis will create an assessment of the profitability of ACME Corporation moving into agricultural inputs in Ghana.
